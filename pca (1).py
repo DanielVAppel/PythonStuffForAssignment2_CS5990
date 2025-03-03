@@ -1,7 +1,7 @@
 # -------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# AUTHOR: Daniel Appel
+# FILENAME: PCA
+# SPECIFICATION: A program for performing PCA
 # FOR: CS 5990 (Advanced Data Mining) - Assignment #2
 # TIME SPENT: how long it took you to complete the assignment
 # -----------------------------------------------------------*/
