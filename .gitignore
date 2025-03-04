@@ -1,0 +1,4 @@
+# Ignore virtual environments
+sklearn-env/
+.venv/
+env/
