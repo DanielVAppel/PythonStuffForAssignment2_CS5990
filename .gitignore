@@ -1,4 +1,6 @@
 # Ignore virtual environments
-sklearn-env/
-.venv/
 env/
+assignment-env/
+__pycache__/
+*.pyc
+.DS_Store
